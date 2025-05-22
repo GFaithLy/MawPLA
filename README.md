@@ -1,4 +1,4 @@
-Title: "MawPLA: prediction of protein-ligand binding affinitywavelet neural network andbased on interpretablebimodal network"
+Title: "MawPLA: prediction of protein-ligand binding affinity using wavelet neural network and based on interpretable bimodal network"
 
 #Source data processing
 To get the .csv file for training and testing, you can use the code generated in the ". /data/pre-code" file.
@@ -14,4 +14,4 @@ Please execute the file: main.py
 Please execute the file: test.py
 
 
-Keep updating... ....
+Keep updating ... ....
